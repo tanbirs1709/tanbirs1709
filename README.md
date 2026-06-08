@@ -1,16 +1,38 @@
-## Hi there 👋
+# Hi, I'm Tanbir Singh 👋
 
-<!--
-**tanbirs1709/tanbirs1709** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 BCA Student at Lamrin Tech Skills University
 
-Here are some ideas to get you started:
+💻 Programming Languages
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* C
+* C++
+* Java
+* Python
+
+🌐 Web Technologies
+
+* HTML
+* CSS
+* JavaScript
+
+🏆 Achievements
+
+* Best Student (NSS)
+* 1st Position – Green Computing Presentation Competition
+
+📜 Certifications
+
+* Gen AI for Business Innovation
+* Leadership and Community Development Training
+* Youth Aapda Mitra Scheme (YAMS)
+* Adventure Camp (ABVIMAS)
+
+🌱 Currently Learning
+
+* Cloud Computing
+* Computer Networks
+* AI & ML Fundamentals
+
+🤝 Open to Internship Opportunities
+
+I enjoy learning new technologies, understanding how systems work, and solving real-world problems through technology. I am continuously building my technical foundation while exploring different domains of Information Technology.
